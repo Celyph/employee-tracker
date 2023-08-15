@@ -14,6 +14,10 @@
 
 
 
+https://github.com/Celyph/employee-tracker/assets/122329678/3ae72e23-a0b2-4647-9b9d-cfca26521c2d
+
+
+
 ## Credits
 
 I used the ReadMe guide from [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
